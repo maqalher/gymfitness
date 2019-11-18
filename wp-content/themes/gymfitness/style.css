@@ -113,8 +113,8 @@ hr {
     text-align: center;
 }
 
-.text-primario {
-    color: var(--fuentePrincipal);
+.texto-primario {
+    color: var(--colorPrimario);
 }
 
 .seccion {
